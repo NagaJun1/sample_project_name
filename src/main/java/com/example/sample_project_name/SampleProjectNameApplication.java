@@ -1,0 +1,16 @@
+package com.example.sample_project_name;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SampleProjectNameApplication {
+
+	/**
+	 * 処理の開始位置
+	 */
+	public static void main(String[] args) {
+		SpringApplication.run(SampleProjectNameApplication.class, args);
+	}
+
+}
