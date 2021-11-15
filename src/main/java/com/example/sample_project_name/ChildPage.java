@@ -1,4 +1,4 @@
-package com.example.sample_project_name.children;
+package com.example.sample_project_name;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
